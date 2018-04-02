@@ -4,9 +4,9 @@ Copyright (c) 2018, SYOBON, The Monero Project
 
 ## Development and Community Resources
 
-Web: http://aeon.cash  
-Reddit: https://reddit.com/r/aeon  
-Github: https://github.com/aeonix/aeon  
+Web: http://syobon.org  
+Reddit: https://reddit.com/r/syobon  
+Github: https://github.com/syobon-projest/syobon  
 IRC: #SYOBON  
 
 ## Introduction
